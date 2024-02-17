@@ -2,7 +2,7 @@
 
 ###
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100](https://tenor.com/en-GB/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682)"/>
+  <img src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif width="100"/>
 </div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
