@@ -3,7 +3,7 @@
 ###
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif width="400" height="200"/>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tsekovTriesCoding&theme=darcula" alt="GitHub Streak" /></a>
+  Programming languages and tools used:
 </div> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
