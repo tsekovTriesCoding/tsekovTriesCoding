@@ -16,8 +16,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+</div> 
 https://github-readme-streak-stats.herokuapp.com/?user=tsekovTriesCoding
-
+</div> 
 ###
 
 <!--
