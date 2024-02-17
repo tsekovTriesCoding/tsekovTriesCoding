@@ -3,8 +3,8 @@
 ###
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif width="400" height="200"/>
-  Programming languages and tools used:
 </div> 
+ Programming languages and tools used:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
