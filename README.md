@@ -2,8 +2,8 @@
 
 ###
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif width="20"/>
-</div>
+  <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif width="200" height="80"/>
+</div> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
