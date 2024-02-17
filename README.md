@@ -1,7 +1,7 @@
 <h2 align="center">Hello there, my name is Tsvetoslav 👋</h2>
 
 ###
-
+(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
